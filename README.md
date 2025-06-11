@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @vaibhavsri7985
-- ❤️ Welcome to my GitHub profile!
-- 🎓 I’m a student in a Data Science program.
-- 🔭 I’m working on exciting projects in Python, machine learning, and data visualization.
-- 💬 Ask me about: Data Science, Python, SQL, Pandas, and more!
-- 📫 How to reach me ...[vaibhavsrivastav7985@gmail.com] or [8423071894]
+
+📫 How to reach me ...[vaibhavsrivastav7985@gmail.com] or [8423071894]
 
 
 <!---
