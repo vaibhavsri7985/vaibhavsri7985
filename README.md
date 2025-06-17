@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Srivastav</h1>
-<h3 align="center">Aspiring Data Scientist | Python | SQL | ML | Power BI | Excel | Selenium</h3>
+<h3 align="center">Data Scientist | Python | SQL | ML | Power BI | Excel | Selenium</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaibhavsrivastav&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavsrivastav" />
