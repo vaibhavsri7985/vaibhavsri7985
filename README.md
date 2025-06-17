@@ -13,7 +13,7 @@
 - 🌱 Actively learning **Deep Learning, NLP, and Generative AI**
 - 👯 Looking to collaborate on **data science and automation-based open-source projects**
 - 💬 Skilled in **Python, SQL (MS SQL), Power BI, Excel, Selenium, Plotly, Jupyter Notebook, Google Colab**
-- 📫 Reach me at **[vaibhavsrivastav7985@gmail.com](mailto:vaibhavsrivastav7985@gmail.com)**
+- 📫 Reach me at: [vaibhavsrivastav7985@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavsrivastav7985@gmail.com)
 - 📄 View my [LinkedIn Profile](https://www.linkedin.com/in/vaibhavsrivastav18/)
 
 ---
