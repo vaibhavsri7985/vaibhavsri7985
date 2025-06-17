@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Vaibhav Srivastav</h1>
 <h3 align="center">Aspiring Data Scientist | Python | SQL | ML | Power BI | Excel | Selenium</h3>
 
@@ -10,51 +9,44 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning, and NLP projects**
-- 🌱 I’m currently learning **Advanced EDA, SVD-based Recommenders, Time Series (Prophet, ARIMA), and Web Automation**
-- 👯 I’m looking to collaborate on **real-world datasets and open-source data science projects**
-- 💬 Ask me about **Python, SQL, ML, Power BI, Excel automation, and Selenium**
+- 🔭 I’m currently working on projects in **Machine Learning, Deep Learning, and NLP**
+- 🌱 Actively learning **Deep Learning, NLP, and Generative AI**
+- 👯 Looking to collaborate on **data science and automation-based open-source projects**
+- 💬 Skilled in **Python, SQL (MS SQL), Power BI, Excel, Selenium, Plotly, Jupyter Notebook**
 - 📫 Reach me at **[vaibhavsrivastav7985@gmail.com](mailto:vaibhavsrivastav7985@gmail.com)**
-- 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/vaibhavsrivastav18/)
+- 📄 View my [LinkedIn Profile](https://www.linkedin.com/in/vaibhav-srivastav)
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tools and Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavsrivastav&show_icons=true&theme=radical" alt="Vaibhav's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsrivastav&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-- **🧠 Machine Learning Projects** – EDA, Linear Models, Tree-based Models  
-- **📊 Power BI Dashboards** – Interactive visuals and insights  
-- **🤖 Web Automation with Selenium** – Auto form-filling, CAPTCHA processing  
-- **📅 Time Series Forecasting** – ARIMA, Facebook Prophet models  
+- **🧠 Machine Learning Projects** – Applied both **Supervised** (Linear Regression, Logistic Regression, Decision Trees, Random Forest, XGBoost, Gradient Boosting, KNN, SVM, Naive Bayes) and **Unsupervised** (K-Means, Hierarchical Clustering, PCA) models  
+- **📊 Power BI Dashboards** – Created dashboards with custom visuals, DAX measures, and dynamic filters  
+- **🤖 Web Automation with Selenium** – Automated workflows including login, form submission, and data scraping with CAPTCHA handling  
+- **📅 Time Series Forecasting** – Worked with AR, ARIMA, SARIMA, Facebook Prophet, and ML-based forecasting models  
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/vaibhav-srivastav"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vaibhavsrivastav9984@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vaibhavsrivastav7985@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
