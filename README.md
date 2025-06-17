@@ -49,5 +49,8 @@
 
 <p>
   <a href="https://www.linkedin.com/in/vaibhavsrivastav18/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vaibhavsrivastav7985@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavsrivastav7985@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
