@@ -13,7 +13,8 @@
 - 🌱 Actively learning **Deep Learning, NLP, and Generative AI**
 - 👯 Looking to collaborate on **data science and automation-based open-source projects**
 - 💬 Skilled in **Python, SQL (MS SQL), Power BI, Excel, Selenium, Plotly, Jupyter Notebook, Google Colab**
-- 📫 Reach me at **[vaibhavsrivastav7985@gmail.com](mailto:vaibhavsrivastav7985@gmail.com)**
+- 📫 Reach me at **[vaibhavsrivastav7985@gmail.com](mailto:vaibhavsrivastav7985@gmail.com)**  
+  📬 Or click here to [compose using Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavsrivastav7985@gmail.com)
 - 📄 View my [LinkedIn Profile](https://www.linkedin.com/in/vaibhavsrivastav18/)
 
 ---
@@ -42,6 +43,22 @@
 - **📊 Power BI Dashboards** – Created dashboards with custom visuals, DAX measures, and dynamic filters  
 - **🤖 Web Automation with Selenium** – Automated workflows including login, form submission, and data scraping with CAPTCHA handling  
 - **📅 Time Series Forecasting** – Worked with AR, ARIMA, SARIMA, Facebook Prophet, and ML-based forecasting models  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavsrivastav&show_icons=true&theme=default" alt="Vaibhav's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavsrivastav&theme=default" alt="Vaibhav's GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsrivastav&layout=compact" alt="Vaibhav's Most Used Languages"/>
+</p>
 
 ---
 
