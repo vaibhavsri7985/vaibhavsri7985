@@ -12,9 +12,9 @@
 - 🔭 I’m currently working on projects in **Machine Learning, Deep Learning, and NLP**
 - 🌱 Actively learning **Deep Learning, NLP, and Generative AI**
 - 👯 Looking to collaborate on **data science and automation-based open-source projects**
-- 💬 Skilled in **Python, SQL (MS SQL), Power BI, Excel, Selenium, Plotly, Jupyter Notebook**
+- 💬 Skilled in **Python, SQL (MS SQL), Power BI, Excel, Selenium, Plotly, Jupyter Notebook, Google Colab**
 - 📫 Reach me at **[vaibhavsrivastav7985@gmail.com](mailto:vaibhavsrivastav7985@gmail.com)**
-- 📄 View my [LinkedIn Profile](https://www.linkedin.com/in/vaibhav-srivastav)
+- 📄 View my [LinkedIn Profile](https://www.linkedin.com/in/vaibhavsrivastav18/)
 
 ---
 
@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
@@ -47,6 +48,6 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/vaibhav-srivastav"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vaibhavsrivastav18/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vaibhavsrivastav7985@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
