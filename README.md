@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Srivastav</h1>
-<h3 align="center">Data Scientist | Python | SQL | ML | Deep Learning | Generative AI | Power BI | Excel | Selenium</h3>
+<h3 align="center"> Aspiring Data Scientist | Python | SQL | ML | Deep Learning | Generative AI | Power BI | Excel | Selenium</h3>
 
 ---
 
